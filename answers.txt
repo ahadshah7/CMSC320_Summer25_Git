@@ -9,3 +9,7 @@ Answer: Insurance, for example, using predictive analytics to assess risk and se
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging combines the histories of two branches preserving all commits, while rebasing moves your commits onto another branch to create a linear history.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I'm working as a Data Science intern so lots of the skills I'm learning this semester directly applies to the work I will be doing this summer.
