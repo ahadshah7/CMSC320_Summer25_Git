@@ -5,3 +5,7 @@ Answer: Git is used for version control, enabling developers to track changes, c
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Insurance, for example, using predictive analytics to assess risk and set personalized premiums based on customer data.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging combines the histories of two branches preserving all commits, while rebasing moves your commits onto another branch to create a linear history.
